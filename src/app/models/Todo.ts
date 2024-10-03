@@ -4,5 +4,4 @@ export interface Todo {
     isCompleted: boolean;
     isFavorite: boolean;
     date: Date;
-    // date?: Date; make it optional 
 }
